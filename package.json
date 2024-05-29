@@ -1,0 +1,13 @@
+{
+  "name": "vitest-compareboundarypoints-error",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@happy-dom/global-registrator": "^14.11.4",
+    "@types/bun": "latest",
+    "vitest": "^1.6.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
